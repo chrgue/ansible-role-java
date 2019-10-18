@@ -9,7 +9,7 @@
     repo: "deb [arch=amd64] http://repos.azulsystems.com/ubuntu stable main"
     update_cache: yes
 
-- name: Install cgu-java
+- name: Install Java
   apt:
     name: "{{ java_version }}"
 
