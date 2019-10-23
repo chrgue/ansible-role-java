@@ -1,1 +1,8 @@
 galaxy_info:
+  role_name: java_development
+  author: Christian Günther
+  description: Installs java development enviroment
+  version: 0.0.1
+  galaxy_tags:
+    - development
+    - java
